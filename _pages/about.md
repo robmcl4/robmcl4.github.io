@@ -10,6 +10,7 @@ redirect_from:
 Hello!
 
 I am a PhD Candidate at UC Santa Barbara.
+I study smart contract security and decentralized finance.
 
 ## CV
 
