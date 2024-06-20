@@ -11,6 +11,7 @@ Hello!
 
 I am a PhD Candidate at UC Santa Barbara.
 I study smart contract security and decentralized finance.
+I am advised by Giovanni Vigna and Christopher Kruegel.
 
 ## CV
 
